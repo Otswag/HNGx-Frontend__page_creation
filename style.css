@@ -1,0 +1,14 @@
+/* Style Slack Name */
+[data-testid="slackUserName"] {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Style Slack Display Picture */
+[data-testid="slackDisplayImage"] {
+    max-width: 150px;
+    border: 2px solid #333;
+    border-radius: 50%;
+}
+
+/* practicing */
